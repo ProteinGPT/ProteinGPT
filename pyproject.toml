@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ProteinGPT"
+version = "0.1.1"
+description = "A package for ProteinGPT"
+readme = "README.md"
+authors = [{ name = "YIJIA XIAO and EDWARD SUN", email = "yijia-xiao@outlook.com" }]
+dependencies = [
+    "numpy",
+    "torch",
+    "transformers"
+]
+requires-python = ">=3.7"
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://ProteinGPT.github.io/"
+
+[tool.setuptools]
+include-package-data = true
+license-files = ["LICENSE"]

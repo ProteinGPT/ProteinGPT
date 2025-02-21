@@ -1,0 +1,5 @@
+datasets:
+  pdb:
+    data_type: protein
+    build_info:
+      storage: PATH_TO_pdb

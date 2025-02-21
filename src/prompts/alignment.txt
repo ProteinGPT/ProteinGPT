@@ -1,0 +1,16 @@
+<protein><proteinHere></protein> Describe this protein.
+<protein><proteinHere></protein> Tell me about this protein in detail.
+<protein><proteinHere></protein> Please provide a detailed description of the protein.
+<protein><proteinHere></protein> Could you describe this protein for me?
+<protein><proteinHere></protein> Please give me an introduction about this protein.
+<protein><proteinHere></protein> What specific receptors or signaling pathways does this protein activate or interact with?
+<protein><proteinHere></protein> What roles does this protein play in physiological processes such as development, wound healing, or immune response?
+<protein><proteinHere></protein> What cellular processes or pathways are directly impacted by the activity of this protein?
+<protein><proteinHere></protein> What diseases or conditions are associated with the overexpression or inhibition of this protein?
+<protein><proteinHere></protein> Are there any therapeutic agents or drugs that target this protein or its associated pathways?
+<protein><proteinHere></protein> What experimental techniques are commonly used to study the structure and function of this protein?
+<protein><proteinHere></protein> How do the functions of this protein differ across various tissue types or developmental stages?
+<protein><proteinHere></protein> What is the three-dimensional structure of this protein, and how was it determined?
+<protein><proteinHere></protein> What are the key functional domains of this protein, and what roles do they play in its activity?
+<protein><proteinHere></protein> What are the stability and folding characteristics of this protein?
+<protein><proteinHere></protein> How does this protein contribute to cellular processes such as migration, proliferation, or apoptosis?
