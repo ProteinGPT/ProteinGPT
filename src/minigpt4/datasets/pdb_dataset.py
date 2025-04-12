@@ -62,7 +62,7 @@ class ESMDataset(Dataset):
             "pdb_id": ann["pdb_id"]
         }
 
-    # Yijia please check :)
+    
     # def collater(self, samples):
     #     # print(samples)
     #     max_len_pdb_dim0 = -1
